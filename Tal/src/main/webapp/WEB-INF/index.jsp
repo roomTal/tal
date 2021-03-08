@@ -12,9 +12,9 @@
 	<link rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/index.css" />
 </head>
 
-<body class="homepage is-preload">
+<body class="homepage is-preload" style="overflow-x: hidden;">
+	<c:import url="views/common/header.jsp"></c:import>
 		<div id="page-wrapper">
-			<c:import url="views/common/header.jsp"></c:import>
 			
 			<!-- Banner -->
 			<section id="banner">
