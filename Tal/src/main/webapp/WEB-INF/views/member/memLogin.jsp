@@ -54,7 +54,7 @@ a:hover{
 				<form action="${pageContext.request.contextPath}/member/memberLogin.do" method="post">
 					<table align="center">
 						<tr>
-					s		<td colspan="2" >
+							<td colspan="2" >
 								<input type="text" id="mem_focus" class="form-control" placeholder="ID" name="mId" required />
 							</td>
 						</tr>
@@ -82,7 +82,8 @@ a:hover{
 		</div>
 	</div>
 	<script type="text/javascript">
-
+		function goJoin(){
+			}
 	</script>
 </body>
 </html>
