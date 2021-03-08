@@ -14,7 +14,6 @@
 <body>
 	<!-- Header -->
 		<div id="header">
-
 			<!-- Inner -->
 				<div class="inner">
 					<header>
@@ -40,7 +39,7 @@
 						<li>
 							<a href="#">SIGN IN</a>
 							<ul>
-								<li><a href="#">로그인</a></li>
+								<li><a href="${pageContext.request.contextPath}/login.do">로그인</a></li>
 								<li><a href="#">회원가입</a></li>
 							</ul>
 						</li>
@@ -71,7 +70,6 @@
 				</nav>
 			
 		</div>
-		<hr id="mazeline" align="right" style="width: 50%;">
 			
 		<script src="${pageContext.request.contextPath}/resources/js/jquery.dropotron.min.js"></script>
 		<script src="${pageContext.request.contextPath}/resources/js/jquery.scrolly.min.js"></script>
@@ -80,7 +78,6 @@
 		<script src="${pageContext.request.contextPath}/resources/js/breakpoints.min.js"></script>
 		<script src="${pageContext.request.contextPath}/resources/js/util.js"></script>
 		<script src="${pageContext.request.contextPath}/resources/js/main.js"></script>
-		
 		<!--
 		혹시 몰라서 남겨놓은 하위의 하위 메뉴 샘플
 		<li>
