@@ -83,6 +83,8 @@ a:hover{
 	</div>
 	<script type="text/javascript">
 		function goJoin(){
+
+			
 			}
 	</script>
 </body>
