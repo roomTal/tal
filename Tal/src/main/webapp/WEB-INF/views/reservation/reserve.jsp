@@ -148,7 +148,9 @@
 			<div class="reverseBt" style="width:78%;">
 				<div style="display:table-cell; vertical-align: middle; text-align: center;">
 					<button style="color: black; background-color: lightgray;  width: 15em">취소</button> &nbsp;&nbsp;&nbsp;
-					<button style="color: black; width: 15em">예약하기</button>    
+
+					<button style="color: black; width: 15em">예약하기</button>
+
 				</div>
 			</div>
 		</section>
