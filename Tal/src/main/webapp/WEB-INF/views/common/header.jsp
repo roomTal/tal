@@ -35,7 +35,7 @@
 						</li>
 						<li><a href="left-sidebar.html">THEME</a></li>
 						<li><a href="${pageContext.request.contextPath}/reservationView">RESERVE</a></li>
-						<li><a href="no-sidebar.html">NOTICE</a></li>
+						<li><a href="#">NOTICE</a></li>
 						<li>
 							<a href="#">SIGN IN</a>
 							<ul>
