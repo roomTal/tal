@@ -7,7 +7,12 @@
 		<setting name="jdbcTypeForNull" value="NULL"/>
 	</settings>
 	
+	<typeAliases>
+		<typeAlias type="com.sy.tal.theme.model.vo.Theme" alias="Theme"/>
+	</typeAliases>
+	
 	<typeHandlers>
 		<package name="com.kh.joba.common.typeHandler"/>
+		
 	</typeHandlers>
 </configuration>

@@ -12,16 +12,16 @@ import lombok.ToString;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Reservation {
-	private int Rnum;
-	private int Tnum;
-	private String Mid;
-	private String Rdate;
-	private String Rtime;
-	private int Rpeople;
-	private int Rprice;
-	private String Rhost;
-	private String Rphone;
-	private String Rpass;
-	private String Rcomm;
-	private String Rdis;
+	private int rNum;
+	private int tNum;
+	private String mId;
+	private String rDate;
+	private String rTime;
+	private int rPeople;
+	private int rPrice;
+	private String rHost;
+	private String rPhone;
+	private String rPass;
+	private String rComm;
+	private String rDis;
 }
