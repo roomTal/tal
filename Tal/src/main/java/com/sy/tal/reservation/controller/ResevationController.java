@@ -22,6 +22,6 @@ public class ResevationController {
 	// 예약
 	@RequestMapping("reservation")
 	public String reservation() {
-		return "";
+		return ""; 
 	}
 }
