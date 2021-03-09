@@ -18,6 +18,11 @@ public class ResevationController {
 		return "reservation/reserve";
 	}
 	
+	// 예약정보
+	@RequestMapping("preReservation")
+	public String preReservation() {
+		return "";
+	}
 	
 	// 예약
 	@RequestMapping("reservation")

@@ -114,7 +114,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #483949;
+		color: rgb(255, 220, 2);
 		line-height: 1.25em;
 	}
 
@@ -143,7 +143,7 @@ input, select, textarea {
 
 	strong, b {
 		font-weight: 400;
-		color: #483949;
+		color: rgb(255, 220, 2);
 	}
 
 	em, i {
@@ -1948,7 +1948,7 @@ input, select, textarea {
 	form label {
 		display: block;
 		font-weight: 400;
-		color: #483949;
+		color: rgb(255, 220, 2);
 		margin: 0 0 1em 0;
 	}
 
@@ -2061,7 +2061,7 @@ input, select, textarea {
 		position: relative;
 		display: inline-block;
 		background: rgb(255, 220, 2);
-		color: #fff;
+		color: black
 		text-align: center;
 		border-radius: 0.5em;
 		text-decoration: none;
